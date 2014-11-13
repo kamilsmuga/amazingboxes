@@ -4,4 +4,4 @@ amazingboxes
 Amazing (not really) boxes in JS
 
 
-Deployment: amazing-boxes.herokuapp.com
+[ Deployment on Heroku] (https://amazing-boxes.herokuapp.com)
