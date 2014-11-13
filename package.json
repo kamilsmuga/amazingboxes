@@ -1,0 +1,26 @@
+{
+  "name": "amazing-boxes-js",
+  "version": "0.0.1",
+  "description": "not quite amazing boxes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x",
+    "swig": "1.4.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamilsmuga/amazingboxes"
+  },
+  "keywords": [
+    "amazing",
+    "boxes",
+    "javascript"
+  ],
+  "license": "MIT"
+}
